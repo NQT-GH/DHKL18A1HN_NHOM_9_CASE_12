@@ -12,7 +12,7 @@
 > git add task03_groupby.ipynb
 > ```
 > ```
-> git commit -m "Hoan thanh nhiem vu 3"
+> git commit -m "Task 3: GroupBy & Summarize"
 > ```
 > ```
 > git push origin main
@@ -24,7 +24,7 @@
 > git add task04_merge.ipynb
 > ```
 > ```
-> git commit -m "Hoan thanh nhiem vu 4"
+> git commit -m "Task 4: Merge Dataframe"
 > ```
 > ```
 > git push origin main
@@ -36,7 +36,7 @@
 > git add task05_pivot.ipynb
 > ```
 > ```
-> git commit -m "Hoan thanh nhiem vu 5"
+> git commit -m "Task 5: Pivot Table & Stack/Unstack"
 > ```
 > ```
 > git push origin main
