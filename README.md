@@ -9,6 +9,18 @@
 > **Đầu tiên sử dụng `git pull` để cập nhật các file**
 
 > [!NOTE]
+> **Ngọc: Task 2**
+> ```
+> git add task02_query.ipynb
+> ```
+> ```
+> git commit -m "Task 2: Queries & Statistics"
+> ```
+> ```
+> git push origin main
+> ```
+
+> [!NOTE]
 > **Đăng: Task 3**
 > ```
 > git add task03_groupby.ipynb
